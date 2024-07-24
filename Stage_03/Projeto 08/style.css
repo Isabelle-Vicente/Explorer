@@ -10,8 +10,8 @@
     --title-primary: hsl(240, 6%, 13%);
     --text-primary: hsl(240, 5%, 7%);
 
-    --text-base: 1rem;
-    --text-sm: 0.875rem;
+    font-size: 62.5%;
+
 }
 
 html,
