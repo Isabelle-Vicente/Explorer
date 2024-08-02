@@ -2,8 +2,8 @@
 
 <p align="center">
     Projetos do Explorer da Rocketseat <br>
-   <p><strong>Sobre a trilha:</strong> Nesse trillha aprender novas tecnologias na prática desenvolvendo projetos e cases reais para aprender a lidar com desafios do dia a dia, ganhar experiência e construir um portfólio de brilhar os olhos para se destacar no mercado.</p><br>
-    <br><table>
+   <p><strong>Sobre a trilha:</strong> Nesse trillha aprender novas tecnologias na prática desenvolvendo projetos e cases reais para aprender a lidar com desafios do dia a dia, ganhar experiência e construir um portfólio de brilhar os olhos para se destacar no mercado.</p>
+ <table>
     <thead>
         <tr>
             <th align="center">
@@ -76,6 +76,4 @@
             <td>Git e GitHub</td>
             <td align="center" ><a href="./boracodar6(cartão_de_embarque)/"><img width="300px" src="./boracodar6(cartão_de_embarque)/.github/preview.jpg" /></a></td>
         </tr>
-       
-    </tbody>
 </table></p>
