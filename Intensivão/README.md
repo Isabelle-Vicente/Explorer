@@ -38,7 +38,7 @@
         <tr>
             <td>01</td>
             <td>Projeto 09</td>
-            <td>Jogo da Sorte</td>
+            <td>Sem limites</td>
             <td align="center">
             <a href="#"><img width="300px" src="./.github/preview.png" /></a></td>
         </tr>

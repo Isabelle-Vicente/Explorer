@@ -40,11 +40,7 @@
             <td>Projeto 03</td>
             <td>Eventos</td>
             <td align="center">
-<<<<<<< HEAD
             <a href="#"><img width="300px" src="./Projeto 03(Formularios)/.github/preview.png" /></a></td>
-=======
-            <a href="./Stage_02/README.md"><img width="300px" src="./Projeto 03(Formularios)/.github/preview.png" /></a></td>
->>>>>>> cbe1639bf3a9b90470d8fcea9bbb4dd6a2c5adc9
         </tr>
         <tr>
             <td>02</td>
