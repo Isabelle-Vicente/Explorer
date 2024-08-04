@@ -40,12 +40,12 @@
             <td>Projeto 01</td>
             <td>Imoveis</td>
             <td align="center">
-            <a href="./Stage_02/README.md"><img width="30px" src="./Stage_02/Projeto 01/.github/preview" /></a></td>
+            <a href="./Stage_02/README.md"><img width="30px" src="./Projeto 01/.github/preview.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
             <td>Projeto 02</td>
             <td>Treine.me</td>
-            <td align="center"><a href="./Stage_03/README.md"><img width="30px" src="./Stage_02/Projeto 02/.github/preview" /></a></td>
+            <td align="center"><a href="./Stage_03/README.md"><img width="30px" src="./Projeto 02/.github/preview.png" /></a></td>
         </tr>
 </table></p>

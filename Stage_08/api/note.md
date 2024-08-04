@@ -22,3 +22,4 @@ video 8
 Route Params
 --------------------------------------------------------------------------video 9
 Query Params
+Query Params opcional / Route Params obrigatorio 
