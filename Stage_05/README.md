@@ -40,12 +40,31 @@
             <td>Projeto 09</td>
             <td>Jogo da Sorte</td>
             <td align="center">
-            <a href="./Stage_05/README.md"><img width="30px" src="./jogo_da_sorte/" /></a></td>
+            <a href="#"><img width="300px" src="./jogo_da_sorte/.github/preview.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
             <td>Projeto 10</td>
             <td>Biscoito da Sorte</td>
-            <td align="center"><a href="./Stage_05/README.md"><img width="30px" src="./Projeto 02/.github/preview.png" /></a></td>
+            <td align="center"><a href="#"><img width="300px" src="./biscoito_da_sorte/.github/preview.png" /></a></td>
         </tr>
+         <tr>
+            <td>03</td>
+            <td>Projeto 11</td>
+            <td>IMC</td>
+            <td align="center"><a href="#"><img width="300px" src="./projeto_imc/.github/preview.png" /></a></td>
+        </tr>
+          <tr>
+            <td>04</td>
+            <td>Projeto 13</td>
+            <td>Focus Time</td>
+            <td align="center"><a href="#"><img width="300px" src="./focus_time/.github/preview.png" /></a></td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>Projeto 14</td>
+            <td>Focus Time2</td>
+            <td align="center"><a href="#"><img width="300px" src="./focus_time02/.github/preview.png" /></a></td>
+        </tr>
+
 </table></p>
