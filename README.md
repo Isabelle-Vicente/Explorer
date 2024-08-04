@@ -41,39 +41,51 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td>Stage 01</td>
+            <td>Stage 02</td>
             <td>Introdução ao HTML e CSS</td>
             <td align="center">
-            <a href="./boracodar1(player_de_musica)/"><img width="300px" src="" /></a></td>
+            <a href="./Stage_02/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td>Stage 02</td>
+            <td>Stage 03</td>
             <td>Avançando no HTML e CSS</td>
-            <td align="center"><a href="./boracodar2(card_de_produto)/"><img width="300px" src="" /></a></td>
+            <td align="center"><a href="./Stage_03/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
         <tr>
             <td>03</td>
-            <td>Stage 03</td>
+            <td>Stage 04</td>
             <td>Introdução ao JavaScript</td>
-            <td align="center"><a href="03"><img width="300px" src="./boracodar3(button)/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="03"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
         <tr>
             <td>04</td>
-            <td>Stage 04</td>
             <td>Intensivão</td>
-            <td align="center"><a href="./boracodar4(chat)/"><img width="300px" src="./boracodar4(chat)/.github/preview.jpg" /></a></td>
+            <td>Intensivão</td>
+            <td align="center"><a href="./Intensivão/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
         <tr>
             <td>05</td>
             <td>Stage 05</td>
             <td>Avançando no JavaScript</td>
-            <td align="center"><a href="./boracodar5(calculadora)/"><img width="300px" src="./boracodar5(calculadora)/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="./Stage_05/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
         <tr>
             <td>06</td>
             <td>Stage 06</td>
-            <td>Git e GitHub</td>
-            <td align="center" ><a href="./boracodar6(cartão_de_embarque)/"><img width="300px" src="./boracodar6(cartão_de_embarque)/.github/preview.jpg" /></a></td>
+            <td>JavaScript antes do Framework</td>
+            <td align="center" ><a href="./Stage_06/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
+        </tr>
+          <tr>
+            <td>07</td>
+            <td>Stage 07</td>
+            <td>Versionamento de código</td>
+            <td align="center" ><a href=""><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
+        </tr>
+         <tr>
+            <td>08</td>
+            <td>Stage 08</td>
+            <td>Backend</td>
+            <td align="center" ><a href="./Stage_08/README.md"><img width="300px" src="https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-256.png" /></a></td>
         </tr>
 </table></p>
