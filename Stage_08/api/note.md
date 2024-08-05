@@ -23,3 +23,18 @@ Route Params
 --------------------------------------------------------------------------video 9
 Query Params
 Query Params opcional / Route Params obrigatorio 
+--------------------------------------------------------------------------
+video 15
+o controller pode ter no maximo 5 metodos são eles
+
+index - GET para listar vários registros.
+show - GET para exibir um registro específico.
+create - POST para criar um registro.
+update - PUT para atualizar um registro.
+delete - DELETE para remover um registro.
+--------------------------------------------------------------------------
+video 17
+HTTP Codes slide
+--------------------------------------------------------------------------
+video 18
+slides middleware
