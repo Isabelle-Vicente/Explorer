@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Explorer</title>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <img class="logo" src="./assets/logo.png" alt="food explorer">
+            <div class="search">
+                <i class="ph ph-magnifying-glass"></i>
+                <input type="search" placeholder="Busque por pratos ou ingredientes">
+            </div>
+            <button class="btn-request"><i class="ph ph-receipt"></i> Pedido <span>(6)</span></button>
+            <button class="btn-logout"><i class="ph ph-sign-out"></i></button>
+        </header>
+
+        <main class="main">
+
+            <div class="box">
+                <div class="box-content">
+                    <h1>Sabores inigualáveis</h1>
+                    <p>Sinta o cuidado do preparo com ingredientes selecionados</p>
+                </div>
+            </div>
+            
+            <section class="meals">
+                <h2>Refeições</h2>
+                <div class="cards">
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="desserts">
+                <h2>Sobremesas</h2>
+                <div class="cards">
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="drinks">
+                <h2>Bebidas</h2>
+                <div class="cards">
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card_product">
+                        <button class="favorite-btn"><i class="ph ph-heart-straight"></i></button>
+                        <img src="./assets/Mask group-2.png" alt="Spaguetti Gambe" class="product-image"/>
+                        <div class="description">
+                            <h3>Spaguetti Gambe <i class="ph ph-caret-right"></i></h3>
+                            <p>Massa fresca com camarões e pesto.</p>
+                            <p class="price">R$ 79,97</p>
+                            <div class="product-actions">
+                                <div class="count">
+                                    <button class="less">-</button>
+                                    <span>01</span>
+                                    <button class="more">+</button>
+                                </div>
+                                <button class="include-btn">Incluir</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+               
+           
+        </main>
+
+        <footer class="footer">
+            <img src="./assets/Group 5946.png" alt="">
+            <p>© 2023 - Todos os direitos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
