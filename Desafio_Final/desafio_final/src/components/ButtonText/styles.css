@@ -1,11 +1,10 @@
 @import url(src\styles\global.css);
 
-button {
-    background: var(--tomato100);
+.button-text {
+    background: none;
     width: 100%;
     padding: 1rem 2rem;
     border: none;
-    border-radius: 5px;
     color: var(--light100);
     font-family: 'Poppins', 'sans-serif';
     font-weight: 500;
