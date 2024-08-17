@@ -1,8 +1,8 @@
 import './styles.css';
 
-export function Button({ icon: Icon, text = null, onClick = () => {}, type = "button",}) {
+export function ButtonText({ icon: Icon, text = null, onClick = () => {}, type = "button",}) {
     return (
-      <button 
+      <button className='button-text'
         type={type} 
         onClick={onClick} 
       >
