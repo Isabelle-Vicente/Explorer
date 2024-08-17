@@ -12,8 +12,8 @@ export function Header() {
       <input type="text" placeholder='Pesquisar pelo título' />
     </Search>
 
-      <Profile>
-        <img
+    <Profile to="/profile">
+    <img
           src="https://github.com/Isabelle-Vicente.png"
           alt="Foto do usuário"
         />
